@@ -35,6 +35,10 @@ A modern e-commerce product browsing application built with Next.js 16, featurin
 
 3. **Open your browser**:
    Navigate to [http://localhost:3000](http://localhost:3000)
+   <img width="1912" height="919" alt="image" src="https://github.com/user-attachments/assets/bef27ad1-f24d-4f7e-b810-0995103702b7" />
+   
+   <img width="1663" height="962" alt="image" src="https://github.com/user-attachments/assets/e2a063f2-882a-466e-bd7a-e30abc8f0125" />
+
 
 ## Project Structure
 
