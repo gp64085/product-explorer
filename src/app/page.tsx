@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic';
+
 import { getCategories, getProducts } from "./lib/api";
 import { ProductGrid } from "./components/ProductGrid";
 import { Suspense } from "react";
