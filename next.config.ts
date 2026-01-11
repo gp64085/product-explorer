@@ -7,10 +7,6 @@ const nextConfig: NextConfig = {
         protocol: "https",
         hostname: "fakestoreapi.com",
       },
-      {
-        protocol: "https",
-        hostname: "via.placeholder.com",
-      },
     ],
     unoptimized: true,
   }
