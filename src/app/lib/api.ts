@@ -4,7 +4,6 @@ export async function getProducts(): Promise<Product[]> {
   try {
     const response = await fetch('https://fakestoreapi.com/products', {
       headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
         'Accept': 'application/json'
       },
       cache: 'force-cache'
