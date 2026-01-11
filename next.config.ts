@@ -8,6 +8,8 @@ const nextConfig: NextConfig = {
         hostname: "fakestoreapi.com",
       },
     ],
+    dangerouslyAllowSVG: true,
+    unoptimized: true,
   }
 };
 
